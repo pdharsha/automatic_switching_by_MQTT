@@ -1,0 +1,1 @@
+# automatic_switching_by_MQTT
